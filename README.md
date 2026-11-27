@@ -8,21 +8,19 @@
 
 [Deutsch](README_DE.md) · [Development & architecture](docs/DEVELOPMENT.md) · [Roadmap](docs/ROADMAP.md) · [Credits & licensing](CREDITS.md)
 
-![RealTimeAudioLab Erreger 2026 — startup artwork](images/erreger-startup.jpg)
 
-*Erreger startup artwork — visual identity of the instrument.*
+
+https://github.com/user-attachments/assets/b95629f8-60cc-425b-96e1-e71230a4c7c6
+
+
+
+*Erreger startup artwork und sound demo — visual identity of the instrument.*
 
 **Enclosure design preview**
 
 ![RealTimeAudioLab Erreger 2026 — enclosure with touchscreen and two rotary controls](images/erreger-enclosure.jpg)
 
 *Enclosure design preview — the Erreger touchscreen interface in a white desktop housing. Final enclosure and physical control assignments are not yet specified.*
-
-
-
-https://github.com/user-attachments/assets/d40de299-6427-47b0-bcd0-2c012e3728db
-
-
 
 > **Development preview — November 2026.** Erreger is an independent ESP32-S3 port and extension integrating selected code from **InfeKt-FM1 by j0kerpack**. It is not the original FM-1 firmware, an official Access Virus product or a claim of exact sound or patch compatibility. No firmware is included in this teaser.
 
