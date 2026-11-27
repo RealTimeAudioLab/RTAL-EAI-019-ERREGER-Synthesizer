@@ -18,6 +18,12 @@
 
 *Enclosure design preview — the Erreger touchscreen interface in a white desktop housing. Final enclosure and physical control assignments are not yet specified.*
 
+
+
+https://github.com/user-attachments/assets/d40de299-6427-47b0-bcd0-2c012e3728db
+
+
+
 > **Development preview — November 2026.** Erreger is an independent ESP32-S3 port and extension integrating selected code from **InfeKt-FM1 by j0kerpack**. It is not the original FM-1 firmware, an official Access Virus product or a claim of exact sound or patch compatibility. No firmware is included in this teaser.
 
 ## From an existing synthesis engine to a dedicated instrument
