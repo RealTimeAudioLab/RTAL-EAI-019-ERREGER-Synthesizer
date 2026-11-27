@@ -128,7 +128,7 @@ See the [roadmap](docs/ROADMAP.md) for priorities and acceptance criteria.
 | MCU | ESP32-S3, dual core |
 | Board | JC4827W543 |
 | Display | 480 × 272, landscape, capacitive GT911 touch |
-| Memory | 16 MB flash / 8 MB PSRAM target configuration |
+| Memory | 4 MB flash / 8 MB PSRAM target configuration |
 | Audio | I2S digital audio output |
 | Storage | microSD for presets and assets |
 | MIDI | DIN / native USB-MIDI device integration in development |
